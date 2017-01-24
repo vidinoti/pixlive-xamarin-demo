@@ -1,0 +1,11 @@
+# Ignore SDK DLLs
+PixLiveSDK_Xamarin/VdarSdkAndroid.dll
+PixLiveSDK_Xamarin/VdarSdkIos.dll
+
+*.DS_Store
+
+# Ignore Xamarin build files and user-specific files
+*.userprefs
+[Oo]bj/
+[Bb]in/
+**/packages/*
