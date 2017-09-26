@@ -3,7 +3,7 @@ Xamarin demo application (Android + iOS) using PixLive SDK for Augmented Reality
 
 ## How to get started
 
-1. Copy and paste the PixLive SDK dlls (`VdarSdkIos.dll` and `VdarSdkAndroid.dll`) into the folder `PixLiveSDK_Xamarin`. If you don't have the DLL files, contact support@vidinoti.com.
+1. Copy and paste the PixLive SDK dlls (`VdarSdkIos.dll`, `VdarSdkAndroid.dll`, `AndroidDependencyPdfium.dll`, `AndroidDependencyPdfViewer.dll`) into the folder `PixLiveSDK_Xamarin`. If you don't have the DLL files, contact support@vidinoti.com.
 2. Open the solution `PixLiveXamarinDemo` with Xamarin Studio.
 3. The solution contains an Android and iOS project. You can simply run any of the two projects.
 4. Scan the below demo image.
