@@ -1,6 +1,8 @@
 # Ignore SDK DLLs
 PixLiveSDK_Xamarin/VdarSdkAndroid.dll
 PixLiveSDK_Xamarin/VdarSdkIos.dll
+PixLiveSDK_Xamarin/AndroidDependencyPdfium.dll
+PixLiveSDK_Xamarin/AndroidDependencyPdfViewer.dll
 
 *.DS_Store
 
